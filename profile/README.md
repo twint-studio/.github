@@ -1,5 +1,5 @@
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ServerSMP-Github/.github/main/github-metrics.svg" alt="Metrics" width="400">
+  <img src="https://raw.githubusercontent.com/ServerSMP-Github/.github/main/github-metrics.svg" alt="Metrics" width="800">
 </p>
 <br>
